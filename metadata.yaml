@@ -1,0 +1,16 @@
+name: astrbot_plugin_quick_switch
+display_name: 模型人格切换
+author: suzune
+version: 2.5
+description: 多模型 & 人格一键切换，无需进入后台配置，聊天窗口内直接操作。
+desc: 在聊天窗口快速切换模型和人格，支持管理面板操作。
+category: 实用工具
+tags:
+  - 模型切换
+  - 人格切换
+  - 快捷指令
+icon: logo.png
+support_platforms:
+  - aiocqhttp
+  - qq_official
+astrbot_version: ">=4.22.0"
