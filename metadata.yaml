@@ -1,5 +1,5 @@
 name: "模型人格切换"
 author: "suzune"
-description: "模型·人格·TTS·STT·识图 一键切换"
+desc: "模型·人格·TTS·STT·识图 一键切换"
 version: "3.0"
 repo: "https://github.com/Ling2408/astrbot_plugin_quick_switch"
