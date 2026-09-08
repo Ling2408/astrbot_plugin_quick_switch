@@ -1,4 +1,4 @@
-name: "模型人格切换"
+name: "astrbot_plugin_quick_switch"
 author: "suzune"
 desc: "模型·人格·TTS·STT·识图 一键切换"
 version: "3.0"
